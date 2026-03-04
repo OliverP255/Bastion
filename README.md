@@ -7,11 +7,12 @@ Here was the first repo (made during the hack): https://github.com/cappuch/antis
 ## Features
 - Tool-level Risk Classification
 - Token-Level Risk classification
-![safety classifier](data/safety_classifier.png)
 - Tool Usage Tracking 
 - Human-in-the-loop Approval System
 - Comprehensve logging/monitoring
 - User-friendly Interface for Managing Tools and Approvals
+
+![safety classifier](data/safety_classifier.png)
 
 ## Tool Classification Categories
 - safe: tools that are sandboxed, read-only, or have limited capabilities (e.g., running Lua/Python in a sandbox, simple calculations)
