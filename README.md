@@ -1,7 +1,6 @@
-# antislopfactory
-^ hopefully temporary name
+# Bastion - Real-Time Monitoring of Risks in Agents
 
-powered by takara.ai's ds-1, a high-performance low latency embedding model.
+Powered by takara.ai's ds-1, a high-performance low latency embedding model.
 
 ## features
 - tool-level classification
