@@ -2,7 +2,7 @@
 
 Powered by takara.ai's ds-1, a high-performance low latency embedding model.
 Forked original repo to train a transformer classifier for risk detection over actions rather than LLM for extra speed. 
-Here was the first repo (made during the hack): https://github.com/cappuch/antislopfactory
+Here was the first repo (made during HackEurope): https://github.com/cappuch/antislopfactory
 
 ## Features
 - Tool-level Risk Classification
