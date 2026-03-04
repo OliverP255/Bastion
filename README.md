@@ -1,7 +1,7 @@
 # Bastion - Real-Time Monitoring of Risks in Agents
 
 Powered by takara.ai's ds-1, a high-performance low latency embedding model.
-Modified our repo slightly to train a transformer classifier for risk detection over actions rather than LLM. 
+Modified repo slightly to train a transformer classifier for risk detection over actions rather than LLM for extra speed. 
 Here was the first repo (made during the hack): https://github.com/cappuch/antislopfactory
 
 ## Features
