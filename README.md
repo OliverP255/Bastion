@@ -4,13 +4,13 @@ Powered by takara.ai's ds-1, a high-performance low latency embedding model.
 Modified our repo slightly to train a transformer classifier for risk detection over actions rather than LLM. First repo made during the hack: https://github.com/cappuch/antislopfactory
 
 ## Features
-- tool-level classification
-- message-level safety classification
+- Tool-level Risk Classification
+- Token-Level Risk classification
 ![safety classifier](data/safety_classifier.png)
-- tool usage tracking
-- human-in-the-loop approval system
-- comprehensive logging and monitoring
-- user-friendly interface for managing tools and approvals
+- Tool Usage Tracking 
+- Human-in-the-loop Approval System
+- Comprehensve logging/monitoring
+- User-friendly Interface for Managing Tools and Approvals
 
 ## Tool Classification Categories
 - safe: tools that are sandboxed, read-only, or have limited capabilities (e.g., running Lua/Python in a sandbox, simple calculations)
